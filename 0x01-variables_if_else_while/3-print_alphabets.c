@@ -17,12 +17,10 @@ putchar(c);
 c++;
 }
 
-c = 'A';
-
-while (c <= 'Z')
+while (C <= 'Z')
 
 {
-putchar(c);
+putchar(C);
 C++;
 }
 
