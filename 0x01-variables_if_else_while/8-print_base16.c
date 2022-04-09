@@ -8,19 +8,14 @@
  */
 int main(void)
 {
-
 	char d = '0';
 
 
 
 	while (d <= '9')
-	
 	{
-
 		putchar(d);
-
 		d++;
-
 	}
 
 
@@ -30,11 +25,8 @@ int main(void)
 
 
 	while (c <= '15')
-
 	{
-
 		putchar(c);
-
 		c++;
 
 	}
@@ -42,7 +34,5 @@ int main(void)
 
 
 	putchar('\n');
-
 	return (0);
-
 }
