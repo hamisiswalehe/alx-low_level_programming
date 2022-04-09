@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include i<stdio.h>
 #include <stdlib.h>
 /**
  * main - main block
@@ -9,12 +9,11 @@
 int main(void)
 
 {
-
-	char d = '0';
-
+	int d = 0;
 
 
-	while (d <= '9')
+
+	while (d <= 9)
 
 	{
 
@@ -26,11 +25,11 @@ int main(void)
 
 
 
-	char b = 'a';
+	int b = 10;
 
 
 
-	while (b <= 'f')
+	while (b <= 15)
 
 	{
 
