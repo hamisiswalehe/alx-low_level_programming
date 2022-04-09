@@ -7,7 +7,6 @@
  * Return: 0
  */
 int main(void)
-
 {
 
 	char d = '0';
@@ -15,7 +14,7 @@ int main(void)
 
 
 	while (d <= '9')
-
+	
 	{
 
 		putchar(d);
@@ -26,11 +25,11 @@ int main(void)
 
 
 
-	char c = 'a';
+	char c = '10';
 
 
 
-	while (c <= 'f')
+	while (c <= '15')
 
 	{
 
