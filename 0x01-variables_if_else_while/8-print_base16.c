@@ -7,26 +7,35 @@
  * Return: 0
  */
 int main(void)
+
 {
+
 	char d = '0';
 
 
 
 	while (d <= '9')
+
 	{
+
 		putchar(d);
+
 		d++;
+
 	}
 
 
 
-	char c = '10';
+	char c = 'a';
 
 
 
-	while (c <= '15')
+	while (c <= 'f')
+
 	{
+
 		putchar(c);
+
 		c++;
 
 	}
@@ -34,5 +43,6 @@ int main(void)
 
 
 	putchar('\n');
+
 	return (0);
 }
