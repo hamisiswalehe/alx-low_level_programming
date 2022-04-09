@@ -25,11 +25,11 @@ int main(void)
 
 
 
-	char b = '10';
+	char b = 'a';
 
 
 
-	while (b <= '15')
+	while (b <= 'f')
 
 	{
 
