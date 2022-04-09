@@ -26,17 +26,17 @@ int main(void)
 
 
 
-	char c = 'a';
+	char b = 'a';
 
 
 
-	while (c <= 'f')
+	while (b <= 'f')
 
 	{
 
-		putchar(c);
+		putchar(b);
 
-		c++;
+		b++;
 
 	}
 
