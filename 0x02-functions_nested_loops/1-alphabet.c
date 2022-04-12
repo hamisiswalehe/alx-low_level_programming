@@ -1,11 +1,11 @@
-#include <holberton.h>
+#include <main.h>
 
 /**
- * print_alphabet - Prints the alphabet in lowercase.
+ * main - main block
  *
  * Return: Always 0 (Success)
  */
-void print_alphabet(void)
+int main(void)
 {
 	int i;
 
